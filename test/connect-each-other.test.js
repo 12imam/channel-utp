@@ -1,4 +1,4 @@
-const { Swarm, Logger } = require('12imam-swarm');
+const { Swarm, Logger } = require('twlv-swarm');
 const assert = require('assert');
 const Utp = require('../');
 const logger = new Logger('test/connect-each-other');

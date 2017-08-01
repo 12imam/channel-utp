@@ -1,4 +1,4 @@
-const { Channel } = require('12imam-swarm');
+const { Channel } = require('twlv-swarm');
 const utp = require('utp-native');
 const { URL } = require('url');
 
